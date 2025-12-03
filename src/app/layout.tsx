@@ -67,15 +67,13 @@ export const metadata: Metadata = {
   ],
   keywords: [
     "shashwat",
-    "nikhil",
-    "nixrajput",
-    "nikhil-rajput",
-    "rajput nikhil",
-    "founder of nixlab",
-    "nixlab founder",
+    "shashwatyadav20",
+    "shashwat-yadav",
+    "yadav-shashwat",
+    "yadav shashwat",
     "full stack developer",
     "indian developer",
-    "nixrajput github",
+    "shashwatyadav20 github",
   ],
 };
 
