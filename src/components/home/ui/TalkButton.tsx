@@ -1,11 +1,10 @@
 import Link from "next/link";
-import Strings from "@/constants/strings";
 
 const TalkButton = () => {
   return (
     <Link
       className="app__filled_btn min-w-[10rem]"
-      href={Strings.telegramLink}
+      href="https://t.me/+TUcqDy6tyg82NmRl"
       target="_blank"
     >
       Let&apos;s Talk
@@ -14,3 +13,4 @@ const TalkButton = () => {
 };
 
 export default TalkButton;
+
